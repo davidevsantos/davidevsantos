@@ -14,17 +14,6 @@ Atualmente estou no 1º semestre da faculdade, cursando Análise e Desenvolvimen
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/davidevsantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidevsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidevsantos&layout=compact&theme=dracula"/>
-  </a>
-</div>
-
----
-
 ### 🛠️ Tech Stack & Ferramentas
 
 **Front-end & Web:**
