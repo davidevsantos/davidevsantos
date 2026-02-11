@@ -6,14 +6,6 @@ Atualmente estou no 1º semestre da faculdade, cursando Análise e Desenvolvimen
 
 ---
 
-### 🚀 Sobre Mim
-
-* 🌱 **Estudando:** React, JavaScript, API Rest, SQL, Three JS, GSAP, Blender e Tailwind CSS.
-* 💼 **Experiência:** Site animado do Stranger Things, site para portifólio do iPhone 17 PRO e site paraarquitetos, também para portifólio.
-* 🎯 **Objetivo:** Estagiar na área de Desenvolvimento Front End e seguir carreira nessa área, como CLT ou PJ/Empreendedor.
-
----
-
 ### 🛠️ Tech Stack & Ferramentas
 
 **Front-end & Web:**
@@ -22,6 +14,7 @@ Atualmente estou no 1º semestre da faculdade, cursando Análise e Desenvolvimen
   <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
 </div><br>
 
 ---
