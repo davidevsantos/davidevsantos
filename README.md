@@ -14,6 +14,17 @@ Atualmente estou no 1º semestre da faculdade, cursando Análise e Desenvolvimen
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/daidevsantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daidevsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daidevsantos&layout=compact&theme=dracula"/>
+  </a>
+</div>
+
+---
+
 ### 🛠️ Tech Stack & Ferramentas
 
 **Front-end & Web:**
@@ -24,6 +35,7 @@ Atualmente estou no 1º semestre da faculdade, cursando Análise e Desenvolvimen
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div><br>
 
+---
 **Interesses & Outros:**
 * 🤖 **AI Tools:** Integração de IAs em fluxos de trabalho.
 * ⚡ **Automação:** Criar soluções de otimização de tempo.
